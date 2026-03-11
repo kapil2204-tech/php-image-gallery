@@ -1,5 +1,12 @@
 # PHP Image Upload and Gallery Application
 
+| Field | Details |
+|------|--------|
+| Name | Kapil Chauhan |
+| Enrollment Number | 250905091004 |
+| Subject | Fundamentals of Web Development (FWD) |
+| ALA | PHP File Upload and Image Gallery |
+
 ## Project Overview
 
 This is a simple PHP Image Upload and Gallery Application created for an academic assignment. It demonstrates core PHP concepts including file handling, form processing, input validation, and session management. The project is built using pure PHP, HTML, CSS, and vanilla JavaScript — no frameworks or external libraries.
